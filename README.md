@@ -44,8 +44,8 @@
 1. Clone the Repository / کلون کردن مخزن:
 
    ```bash
-   git clone https://github.com/yourusername/v7lthronyx_DICTIONARY.git
-   cd v7lthronyx_DICTIONARY
+   git clone https://github.com/v7lthronyxprojects/DICTIONARY.git
+   cd DICTIONARY
 pip install -r requirements.txt
 
 python main.py --datasets wordlist.txt --output passwords.txt
